@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340106251542",
+    "project_id": "bunyang-prj",
+    "storage_bucket": "bunyang-prj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340106251542:android:d333a1c689eaf8cbb69437",
+        "android_client_info": {
+          "package_name": "com.cnjmonster.bunyanggod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1VV4UzlBzu1uT5DtyKvW4oww0mXPyq30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
