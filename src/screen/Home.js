@@ -24,7 +24,7 @@ const Home = props => {
   const {navigation} = props;
 
   //선언
-  const mainURL = 'cnj0002.cafe24.com';
+  const mainURL = 'kwk0002.cafe24.com';
   const app_domain = BASE_URL;
   let pwChgPop = false;
   let canGoBack = false;
